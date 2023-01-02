@@ -35,4 +35,4 @@ Current survey topics:
 * De novo drug design (inverse of virtual screening): directory generate a compound with certain properties
 * Both work hand-in-hand (ex. Virtual screening to generate training data where confidence is low)
 
-[Sign up](https://newsletter.madewithbio.com) for updates!
+[Sign up](https://twitter.com/madewithbio) for updates!
